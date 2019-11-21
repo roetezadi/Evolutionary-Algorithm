@@ -20,4 +20,4 @@ Population size is 20 chromosomes. In the first iteration 20 random chromosomes 
 
 
 
-#### The final answer in this algorithm is highly dependent on the total iteration and the target sentence length. If the size of the target sentence is high then the iteration size should be increased. 
+#### The final answer in this algorithm is highly dependent on the total iteration and the target sentence length. If the size of the target sentence is high then the number of iteration should be increased. 
